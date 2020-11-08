@@ -1,5 +1,3 @@
-Tomas Vondra
-============
 
 * PostgreSQL contributor and committer, slacker, bug developer
 * [EnterpriseDB](https://www.enterprisedb.com)
