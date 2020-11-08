@@ -1,5 +1,4 @@
-Tomas Vondra
-============
+# Tomas Vondra
 
 * PostgreSQL contributor and committer, slacker, bug developer
 * [EnterpriseDB](https://www.enterprisedb.com)
@@ -7,8 +6,7 @@ Tomas Vondra
 * e-mail (personal): tomas(at)pgaddict.com
 
 
-Links
------
+## Links
 
 * [company blog](https://www.2ndquadrant.com/blog/author/tomas-vondra/)
 * [github](https://github.com/tvondra)
@@ -18,13 +16,17 @@ Links
 * [postgresql.life](https://postgresql.life/post/tomas_vondra/)
 
 
-Talks
------
+## Talks
+
+### 2020
 
 * Co je nového v PostgreSQL 12 (a 13), Prague PostgreSQL Developer Day 2020
 
    [[schedule](https://p2d2.cz/rocnik-2020/prednasky)]
    [[PDF](pdf/novinky-v-postgresql-12-a-13.pdf)]
+
+
+### 2019
 
 * CREATE STATISTICS - what is it for?, PostgresLondon 2019
 
@@ -40,6 +42,9 @@ Talks
    [[schedule](https://www.postgresql.eu/events/nordicpgday2019/schedule/session/2461-data-corruption-where-does-it-come-from-and-what-can-you-do-about-it/)]
    [[PDF](pdf/data-corruption-2019.pdf)]
    [[slideshare](https://www.slideshare.net/fuzzycz/data-corruption)]
+
+
+### 2018
 
 * CREATE STATISTICS - what is it for?, pgconf.eu 2018
 
@@ -57,10 +62,16 @@ Talks
    [[schedule](https://p2d2.cz/rocnik-2018/prednasky)]
    [[PDF](pdf/novinky-v-postgresql-10-a-11.pdf)]
 
+
+### 2017
+
 * Paralelní dotazy v PostgreSQL 9.6 (a 10.0), Prague PostgreSQL Developer Day 2017
 
    [[schedule](https://p2d2.cz/rocnik-2017/prednasky)]
    [[PDF](pdf/paralelni-dotazy-2017.pdf)]
+
+
+### 2016
 
 * Performance improvements in PostgreSQL 9.5 and 9.6, 5432meet.us 2016 (Milan)
 
@@ -78,6 +89,9 @@ Talks
    [[PDF](pdf/filesystem-benchmark-fosdem-2016.pdf)]
    [[slideshare](https://www.slideshare.net/fuzzycz/postgresql-na-ext4-xfs-btrfs-a-zfs-fosdem-pgday-2016)]
 
+
+### 2015
+
 * Performance improvements in 9.5 and beyond, pgconf.eu 2015
 
    [[schedule](https://www.postgresql.eu/events/pgconfeu2015/schedule/session/1091-performance-improvements-in-95-and-beyond/)]
@@ -94,6 +108,9 @@ Talks
 
    [[schedule](https://p2d2.cz/rocnik-2015/prednasky)]
 
+
+### 2014
+
 * Performance Archaeology, pgconf.eu 2014
 
    [[schedule](https://www.postgresql.eu/events/pgconfeu2014/schedule/session/662-performance-archaeology/)]
@@ -104,10 +121,16 @@ Talks
 
    [[schedule](https://www.postgresql.eu/events/nordicpgday2014/schedule/session/609-useful-yet-frequently-omitted-extensions/)]
 
-* Užitečné ale opomíjené extenze, Prague PostgreSQL Developer Day 2016
+
+### 2013
+
+* Užitečné ale opomíjené extenze, Prague PostgreSQL Developer Day 2013
 
    [[schedule](https://p2d2.cz/rocnik-2013/prednasky)]
    [[PDF](pdf/uzitecne-a-opomijene-extenze.pdf)]
+
+
+### 2012
 
 * Provoz PostgreSQL na AWS, pgconf.eu 2012
 
@@ -126,6 +149,9 @@ Talks
    [[schedule](https://p2d2.cz/rocnik-2012/prednasky)]
    [[PDF](pdf/postgresql-vs-ssd.pdf)]
    [[slideshare](https://www.slideshare.net/fuzzycz/ssd-vs-hdd-wal-indexes-and-fsync)]
+
+
+### 2011
 
 * Pohádka o checkpointu, CSPUG meetup, 2011
 
