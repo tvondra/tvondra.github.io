@@ -106,4 +106,3 @@ Talks
 * Monitoring výkonu PostgreSQL, Prague PostgreSQL Developer Day 2011
 
    [[schedule](https://p2d2.cz/rocnik-2010/prednasky)]
- 
