@@ -1,0 +1,40 @@
+---
+---
+@import "{{ site.theme }}";
+
+
+body {
+	background: white;
+	color: #3f3f3f;
+}
+
+a {
+	color: #00a;
+	text-shadow: none;
+}
+
+header {
+	display: none;
+}
+
+ul li {
+	list-style: square;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #0000c0;
+}
+
+li p {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.75em;
+}
