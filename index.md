@@ -15,6 +15,7 @@ Links
 * [LinkedIn](https://www.linkedin.com/in/tomasvondra/)
 * [slideshare](https://www.slideshare.net/fuzzycz)
 * [Flickr](https://www.flickr.com/photos/tomas_vondra/)
+* [postgresql.life](https://postgresql.life/post/tomas_vondra/)
 
 
 Talks
@@ -29,6 +30,10 @@ Talks
 
    [[PDF](pdf/create-statistics-what-is-it-for-2019.pdf)]
    [[slideshare](https://www.slideshare.net/fuzzycz/create-statistics-what-is-it-for-postgreslondon)]
+
+* CREATE STATISTICS, pgconf.be 2019
+
+   [[schedule](https://pgconf.be/2019/lectures/tv.html)]
 
 * Data corruption - where does it come from and what can you do about it?, Nordic PGDay 2019
 
@@ -57,15 +62,33 @@ Talks
    [[schedule](https://p2d2.cz/rocnik-2017/prednasky)]
    [[PDF](pdf/paralelni-dotazy-2017.pdf)]
 
+* Performance improvements in PostgreSQL 9.5 and 9.6, 5432meet.us 2016 (Milan)
+
+   [[schedule](http://2016.5432meet.us/index.html%3Fp=141.html)]
+   [[PDF](pdf/performance-milan-2016.pdf)]
+   [[slideshare](https://www.slideshare.net/fuzzycz/postgresql-performance-improvements-in-95-and-96)]
+
 * Novinky v PostgreSQL 9.5, Prague PostgreSQL Developer Day 2016
 
    [[schedule](https://p2d2.cz/rocnik-2016/prednasky)]
+
+* PostgreSQL Performance on EXT4, XFS, F2FS, BTRFS and ZFS, FOSDEM PGDay 2016
+
+   [[schedule](https://www.postgresql.eu/events/fosdem2016/schedule/session/1186-postgresql-performance-on-ext4-xfs-f2fs-btrfs-and-zfs/)]
+   [[PDF](pdf/filesystem-benchmark-fosdem-2016.pdf)]
+   [[slideshare](https://www.slideshare.net/fuzzycz/postgresql-na-ext4-xfs-btrfs-a-zfs-fosdem-pgday-2016)]
 
 * Performance improvements in 9.5 and beyond, pgconf.eu 2015
 
    [[schedule](https://www.postgresql.eu/events/pgconfeu2015/schedule/session/1091-performance-improvements-in-95-and-beyond/)]
    [[PDF](pdf/perf-improvements-9.5-and-beyond-2015.pdf)]
    [[slideshare](https://www.slideshare.net/fuzzycz/performance-improvements-in-postgresql-95-and-beyond)]
+
+* PostgreSQL Performance on EXT4, XFS, F2FS, BTRFS and ZFS
+
+   [[schedule](https://www.postgresql.eu/events/pgconfeu2015/schedule/session/977-postgresql-performance-on-ext4-xfs-f2fs-btrfs-and-zfs/)]
+   [[PDF](pdf/filesystem-benchmark-pgconfeu-2015.pdf)]
+   [[slideshare](https://www.slideshare.net/fuzzycz/postgresql-on-ext4-xfs-btrfs-and-zfs-54525451)]
 
 * Novinky v PostgreSQL 9.4, Prague PostgreSQL Developer Day 2015
 
@@ -102,6 +125,17 @@ Talks
 
    [[schedule](https://p2d2.cz/rocnik-2012/prednasky)]
    [[PDF](pdf/postgresql-vs-ssd.pdf)]
+   [[slideshare](https://www.slideshare.net/fuzzycz/ssd-vs-hdd-wal-indexes-and-fsync)]
+
+* Pohádka o checkpointu, CSPUG meetup, 2011
+
+   [[schedule](https://p2d2.cz/rocnik-2012/prednasky)]
+   [[PDF](pdf/checkpoint-pohadka-cspug-meetup-2011.pdf)]
+   [[slideshare](https://www.slideshare.net/fuzzycz/checkpoint-cspug-22112011)]
+
+* Replikace v PostgreSQL, CSPUG Meetup 2011
+
+   [[PDF](pdf/replikace-v-postgresql-2011.pdf)]
 
 * Monitoring výkonu PostgreSQL, Prague PostgreSQL Developer Day 2011
 
