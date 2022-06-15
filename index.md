@@ -18,6 +18,35 @@
 
 ## Talks
 
+### 2022
+
+* Does the data/WAL page size actually matter?, PostgresVision 2022
+
+   [[schedule](https://www.postgresvision.com/agenda)]
+   [[PDF](pdf/block-sizes-postgresvision-2022.pdf)]
+   [[YouTube](https://www.youtube.com/watch?v=mVKpoQxtCXk)]
+
+
+* BRIN Index Improvements, P2D2 2022
+
+   [[schedule](https://p2d2.cz/rocnik-2022/prednasky)]
+   [[PDF](pdf/brin-index-improvements-p2d2-2022.pdf)]
+
+
+* CREATE STATISTICS improvements, pgconf.de 2022
+
+   [[schedule](https://www.postgresql.eu/events/pgconfde2022/schedule/session/3704-an-overview-of-extended-statistics-in-postgresql/)]
+   [[PDF](pdf/create-statistics-pgconfde-2022.pdf)]
+
+
+### 2021
+
+* Kam kráčíš, PostgreSQL 2021
+
+   [[schedule](https://archiv.openalt.org/openalt-cz/2021/program_detail.html#event_45)]
+   [[PDF](pdf/kam-kracis-postgresql-openalt-2021.pdf)]
+
+
 ### 2020
 
 * Co je nového v PostgreSQL 12 (a 13), Prague PostgreSQL Developer Day 2020
