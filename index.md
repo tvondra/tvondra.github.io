@@ -22,6 +22,12 @@
 
 * Does the data/WAL page size actually matter?, PostgresVision 2022
 
+   [[schedule](https://www.postgreslondon.org/recent-improvements-in-brin-indexes)]
+   [[PDF](pdf/brin-indexes-london-2022.pdf)]
+
+
+* Does the data/WAL page size actually matter?, PostgresVision 2022
+
    [[schedule](https://www.postgresvision.com/agenda)]
    [[PDF](pdf/block-sizes-postgresvision-2022.pdf)]
    [[YouTube](https://www.youtube.com/watch?v=mVKpoQxtCXk)]
