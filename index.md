@@ -20,7 +20,7 @@
 
 ### 2022
 
-* Does the data/WAL page size actually matter?, PostgresVision 2022
+* BRIN Index Improvements, PostgresLondon 2022
 
    [[schedule](https://www.postgreslondon.org/recent-improvements-in-brin-indexes)]
    [[PDF](pdf/brin-indexes-london-2022.pdf)]
