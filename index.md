@@ -54,6 +54,12 @@
 
 ### 2022
 
+* BRIN Index Improvements, pgconf.eu 2022
+
+   [[schedule](https://www.postgresql.eu/events/pgconfeu2022/schedule/session/3864-brin-improvements-and-new-opclasses/)]
+   [[PDF](brin-index-improvements-pgconfeu-2022.pdf)]
+
+
 * BRIN Index Improvements, PostgresLondon 2022
 
    [[schedule](https://www.postgreslondon.org/recent-improvements-in-brin-indexes)]
