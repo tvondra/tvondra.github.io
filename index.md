@@ -18,6 +18,40 @@
 
 ## Talks
 
+### 2023
+
+* PostgreSQL Hacking Introduction, OpenAlt 2023
+
+   [[schedule](https://talks.openalt.cz/openalt-2023/talk/CHJXFH/)]
+   [[PDF](pdf/pgsql-hacking-intro-openalt-2023.pdf)]
+   [[YouTube](https://youtu.be/xwqZ4ruy2Uc?list=PLOEQDQruWfhwDt60YXNjSUxcLEFXqbM4J&t=17046)]
+
+
+* Novinky v PostgreSQL, OpenAlt 2023
+
+   [[schedule](https://talks.openalt.cz/openalt-2023/talk/UQQH9H/)]
+   [[PDF](pdf/novinky-v-postgresql-16-openalt-2023.pdf)]
+   [[YouTube](https://youtu.be/sN_3GETzIuM?list=PLOEQDQruWfhwDt60YXNjSUxcLEFXqbM4J&t=16539)]
+
+
+* Novinky v PostgreSQL, LinuxDays 2023
+
+   [[schedule](https://talks.openalt.cz/openalt-2023/talk/UQQH9H/)]
+   [[PDF](pdf/novinky-v-postgresql-16-openalt-2023.pdf)]
+
+
+* BRIN Index Improvements and new opclasses, PGCon 2023
+
+   [[schedule](https://www.pgcon.org/events/pgcon_2023/schedule/session/468-brin-improvements-and-new-opclasses/)]
+   [[PDF](pdf/brin-indexes-pgcon-2023.pdf)]
+
+
+* BRIN Index Improvements, pgday.uk 2023
+
+   [[schedule](https://pgday.uk/events/pgdayuk2023/schedule/session/20-brin-improvements-and-new-opclasses/)]
+   [[PDF](pdf/brin-indexes-pgday-uk-2023.pdf)]
+
+
 ### 2022
 
 * BRIN Index Improvements, PostgresLondon 2022
